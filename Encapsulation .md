@@ -40,3 +40,4 @@ rect.print_values()
 
 
 ## Result
+Thus,the Python program uTo implement Encapsulation in Python by defining a class Rectangle with private member variables __length and __breadth. is created successfully.
